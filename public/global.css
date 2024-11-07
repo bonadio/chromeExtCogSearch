@@ -1,0 +1,19 @@
+#requestPermission:hover {
+    background-color: #0056b3;
+}
+#requestPermission:active {
+    background-color: #004085;
+}
+#requestPermission {
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    border-radius: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}

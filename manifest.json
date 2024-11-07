@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Cognitive Search",
+    "version": "1.0.0",
+    "description": "Chrome extension Cognitive Search",
+    "action": {
+        "default_popup": "index.html"
+    }
+}
+
