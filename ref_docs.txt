@@ -1,0 +1,24 @@
+https://developer.chrome.com/docs/extensions/reference/api/bookmarks
+
+https://dawchihliou.github.io/articles/wasm-semantic-search-in-rust
+
+https://github.com/simonw/llm-embed-onnx
+
+https://github.com/visheratin/web-ai
+
+https://huggingface.co/elastic/multilingual-e5-small-optimized/tree/main
+
+https://huggingface.co/docs/transformers.js/index
+
+https://rxdb.info/articles/javascript-vector-database.html *
+
+https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/
+
+https://github.com/tursodatabase/libsql-wasm-experimental
+
+https://github.com/asg017/sqlite-vec *
+
+https://news.ycombinator.com/item?id=40243168
+
+https://duckdb.org/2024/05/03/vector-similarity-search-vss.html *
+
